@@ -90,14 +90,14 @@ main {
 }
 @media (min-width: 1024px) {
   main {
-    padding: 3rem;
+    padding: 5rem;
     width: 950px;
     margin: 0 auto;
   }
 }
 @media (min-width: 1440px) {
   main {
-    padding: 3rem 0;
+    padding: 8rem 0;
     width: 1200px;
     margin: 0 auto;
   }
